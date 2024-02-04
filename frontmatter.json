@@ -1,0 +1,36 @@
+{
+  "$schema": "https://beta.frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    },
+    {
+      "title": "authors",
+      "path": "[[workspace]]/content/authors"
+    },
+    {
+      "title": "blog",
+      "path": "[[workspace]]/content/blog"
+    },
+    {
+      "title": "docs",
+      "path": "[[workspace]]/content/docs"
+    },
+    {
+      "title": "notes",
+      "path": "[[workspace]]/content/notes"
+    },
+    {
+      "title": "tags",
+      "path": "[[workspace]]/content/tags"
+    },
+    {
+      "title": "series",
+      "path": "[[workspace]]/content/series"
+    }
+  ],
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.preview.host": "http://localhost:1313"
+}
